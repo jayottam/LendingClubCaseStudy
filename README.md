@@ -11,7 +11,7 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile.
+- Consumer finance company which specializes in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile.
 - The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default
 - Data set has 39717 rows and 111 columns. 
 - Data set consist of relevant information of loan characteristics and customer behavior variables
@@ -19,7 +19,7 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-We cannot simply consider one or two variable to predict the default, We have defined 14 parameters which needs to be considered while giving loan. In an a application if more than 5 matching parameters are there then we should avoid giving loan for such applications, Only few are mentioned here
+We cannot simply consider one or two variables to predict the default. We have defined 14 parameters which need to be considered while giving a loan. In an a application if more than 5 matching parameters are there then we should avoid giving loan for such applications, Only few are mentioned here
 
 - grade - Grades given by LC are C,D,E,F or G
 - term - Loan tenure selected is 60 months
@@ -41,8 +41,8 @@ We cannot simply consider one or two variable to predict the default, We have de
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-- https://stackoverflow.com/questions/51070985/find-out-the-percentage-ofmissing-values-in-each-column-in-the-given-dataset
-- https://www.geeksforgeeks.org/select-columns-with-specific-data-types-inpandas-dataframe/
+- https://stackoverflow.com/questions/51070985/find-out-the-percentage-ofmissing-values-in-each-column-in-the-given-dataset
+- https://www.geeksforgeeks.org/select-columns-with-specific-data-types-inpandas-dataframe/
 - https://www.geeksforgeeks.org/how-to-set-a-seaborn-chart-figure-size/
 - https://stackoverflow.com/questions/63373194/how-to-plot-percentage-with-seaborn-distplot-histplot-displot
 - https://seaborn.pydata.org/generated/seaborn.histplot.html
@@ -60,3 +60,4 @@ Created by [@jayottam] - feel free to contact me!
 <!-- This project is open source and available under the [... License](). -->
 
 <!-- You don't have to include all sections - just the one's relevant to your project -->
+
